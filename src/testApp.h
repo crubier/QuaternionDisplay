@@ -37,4 +37,5 @@ class testApp : public ofBaseApp{
 	//slows down the rotation 1 = 1 degree per pixel
 	float dampen;
 
+    		ofShader shader;
 };
